@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "The Go Programming Language",
+    "author": "Alan A. A. Donovan",
+    "published_year": 2015,
+    "isbn": "978-0134190440",
+    "description": "An authoritative resource on Go programming.",
+    "pages": 380,
+    "genre": "Programming"
+  },
+  {
+    "id": 2,
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "published_year": 2008,
+    "isbn": "978-0132350884",
+    "description": "A Handbook of Agile Software Craftsmanship.",
+    "pages": 464,
+    "genre": "Programming"
+  },
+  {
+    "id": 3,
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt",
+    "published_year": 1999,
+    "isbn": "978-0201616224",
+    "description": "Journey to mastery in software development.",
+    "pages": 352,
+    "genre": "Programming"
+  },
+  {
+    "id": 4,
+    "title": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen",
+    "published_year": 2009,
+    "isbn": "978-0262033848",
+    "description": "Comprehensive textbook on algorithms.",
+    "pages": 1312,
+    "genre": "Computer Science"
+  },
+  {
+    "id": 5,
+    "title": "Design Patterns",
+    "author": "Erich Gamma",
+    "published_year": 1994,
+    "isbn": "978-0201633610",
+    "description": "Elements of reusable object-oriented software.",
+    "pages": 395,
+    "genre": "Software Engineering"
+  },
+  {
+    "id": 6,
+    "title": "Refactoring",
+    "author": "Martin Fowler",
+    "published_year": 1999,
+    "isbn": "978-0201485677",
+    "description": "Improving the design of existing code.",
+    "pages": 431,
+    "genre": "Programming"
+  },
+  {
+    "id": 7,
+    "title": "Effective Java",
+    "author": "Joshua Bloch",
+    "published_year": 2008,
+    "isbn": "978-0321356680",
+    "description": "Best practices for the Java platform.",
+    "pages": 346,
+    "genre": "Programming"
+  },
+  {
+    "id": 8,
+    "title": "Head First Design Patterns",
+    "author": "Eric Freeman",
+    "published_year": 2004,
+    "isbn": "978-0596007126",
+    "description": "A brain-friendly guide to design patterns.",
+    "pages": 694,
+    "genre": "Programming"
+  },
+  {
+    "id": 9,
+    "title": "Cracking the Coding Interview",
+    "author": "Gayle Laakmann McDowell",
+    "published_year": 2015,
+    "isbn": "978-0984782857",
+    "description": "189 programming interview questions and solutions.",
+    "pages": 687,
+    "genre": "Interview Preparation"
+  },
+  {
+    "id": 10,
+    "title": "Structure and Interpretation of Computer Programs",
+    "author": "Harold Abelson",
+    "published_year": 1996,
+    "isbn": "978-0262011532",
+    "description": "A foundational text in computer science.",
+    "pages": 657,
+    "genre": "Computer Science"
+  }
+]
